@@ -18,7 +18,6 @@ spec:
       containers:
       - image: dockercoins/rng:v0.1
         name: rng
----
 apiVersion: v1
 kind: Service
 metadata:
